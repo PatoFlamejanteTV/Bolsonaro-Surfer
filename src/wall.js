@@ -119,7 +119,7 @@ function wall(gl, z_dist, scale, side) {
         1.0, 1.0,
     ];
 
-    const texturePaths = ['./assets/wall.jpg', './assets/wall2.png'];
+    const texturePaths = ['./assets/wall.jpg', './assets/wall2.png', './assets/ROBLOX.jpg'];
     const chosenTexturePath = texturePaths[Math.floor(Math.random() * texturePaths.length)];
     const texture = loadTexture(gl, chosenTexturePath);
 
