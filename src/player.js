@@ -170,8 +170,8 @@ function player_tick(object, obstacles) {
         }
     }
 
-    if (statusKeys[32]) {
-        // Space bar
+    if (statusKeys[32] || statusbar[87]) {
+        // Space bar (and W jump support by PatoFlamejanteTV)
         object.jump = 1;
     }
 
