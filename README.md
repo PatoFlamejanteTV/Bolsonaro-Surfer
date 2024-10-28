@@ -2,6 +2,14 @@
 
 Subway Surfers só que você fumou 2 toneladas enquanto jogava.
 
+## Mudanças chave
+
+É eu tive que botar as mãos na <s>merda</s> massa pra modificar essa b$sta.
+
+- Textura secundária pra parede (wall2)
+- Velocidade aumenta a cada frame
+- Paredes ficam distorcidas pra preencher o vazio <s>da minha alma</s> lateral da tela.
+
 ## Run
 * Open game.html on a browser and play!
 
