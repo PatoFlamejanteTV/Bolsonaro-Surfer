@@ -1,6 +1,6 @@
 # Subway Surfers
 
-Subway Surfers game implemented in WebGL 2.0
+Subway Surfers só que você fumou 2 toneladas enquanto jogava.
 
 ## Run
 * Open game.html on a browser and play!
