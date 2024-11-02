@@ -2,6 +2,14 @@
 
 Subway Surfers só que você fumou 2 toneladas enquanto jogava.
 
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
+
 ## Mudanças chave
 
 É eu tive que botar as mãos na <s>merda</s> massa pra modificar essa b$sta.
